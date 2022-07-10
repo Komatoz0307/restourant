@@ -4,7 +4,7 @@ from PyQt5 import QtWidgets
 from PyQt5.QtWidgets import QDialog, QApplication, QWidget, QStackedWidget
 import sqlite3
 
-
+# hello
 # Класс Welcome "welcome_admin.ui"
 class Welcome(QDialog): 
 	def __init__(self):
